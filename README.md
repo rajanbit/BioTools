@@ -10,3 +10,8 @@ Predict beta-sheet segments within the protein sequence of a given protein fasta
 ```
 $ python B-sheet_predictor.py <fasta_file>
 ```
+### turn_predictor.py
+Predict beta-turn segments within the protein sequence of a given protein fasta record
+```
+$ python turn_predictor.py <fasta_file>
+```
