@@ -15,3 +15,8 @@ Predict beta-turn segments within the protein sequence of a given protein fasta 
 ```
 $ python turn_predictor.py <fasta_file>
 ```
+### ChouFas_predictor.py
+Predict Alpha-Helical Segments, Beta-Sheet Segments and Beta-Turns within the protein sequence of a given protein fasta record
+```
+$ python ChouFas_predictor.py <fasta_file>
+```
