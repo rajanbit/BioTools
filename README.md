@@ -7,3 +7,10 @@ Chou-Fasman algorithm was the first protein structure prediction algorithm devel
 # GC_Classifier
 
 Check the genomic GC profile based similarity between the two fasta record (Reference genome and Test genome) and plot the data to show the relationship between the two genome
+
+# PhyloBit
+
+PhyloBit is a phylogenetic tree construction tool that is based on Distance-Matrix method for making tree. 
+
+# Seq-Logo
+
