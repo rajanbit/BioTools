@@ -20,10 +20,6 @@ Check the genomic GC profile based similarity between the two fasta record (Refe
 
 Python implementation for creating nucleotide and amino acid sequence logo from multi fasta file. 
 
-## GFF_Extractor
+## RNAExA
 
-Working on ...
-
-## Nussinov
-
-Working on ...
+RNA Expression Analysis (RNAExA) is a tool for performing RNA sequencing data (TCGA) analysis 
